@@ -1,0 +1,30 @@
+.ct {
+  justify-content: center;
+}
+
+body{
+  background-image: url(../img/kwan.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.data {
+  background-color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.nav{
+    font-weight: 600;
+    font-size: large;
+    
+}
+

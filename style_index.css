@@ -1,0 +1,23 @@
+body {
+  background-image: url(img/kwan.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.nav {
+  font-weight: 600;
+  font-size: large;
+}
+
+.data {
+  font-weight: 550;
+  padding: 1rem;
+}
